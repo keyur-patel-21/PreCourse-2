@@ -6,6 +6,8 @@
 def binarySearch(arr, l, r, x): 
   
   #write your code here
+  # Time Complexity: O(logn) and O(1) if element is present in middle of array
+  # Space Complexity: O(1)
   while l<=r:
     mid = (l+r)//2
     
