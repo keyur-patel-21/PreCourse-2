@@ -1,4 +1,7 @@
 # Python program for implementation of MergeSort
+
+# Time Complexity : O(n log n)
+# Space Complexity : O(n)
 def mergeSort(arr):
   
     #write your code here 
